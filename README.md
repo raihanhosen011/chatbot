@@ -2,6 +2,8 @@
 
 ![alt text](https://i.ibb.co/JmRXLVk/project-6-with-React-js.png)
 
+[Live demo](https://chatbot-nw.netlify.app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
