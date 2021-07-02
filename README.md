@@ -2,7 +2,7 @@
 
 ![alt text](https://i.ibb.co/JmRXLVk/project-6-with-React-js.png)
 
-[Live demo](https://chatbot-nw.netlify.app/)
+[# Live demo](https://chatbot-nw.netlify.app/)
 
 # Getting Started with Create React App
 
