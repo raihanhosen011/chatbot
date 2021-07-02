@@ -1,3 +1,7 @@
+### `Chatbot - The real time chat app`
+
+![alt text](https://i.ibb.co/JmRXLVk/project-6-with-React-js.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
